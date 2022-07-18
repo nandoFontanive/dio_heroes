@@ -1,0 +1,15 @@
+E:\Documents\OneDrive\Dio\dio_heroes\bin\Debug\net6.0\dio_heroes.exe
+E:\Documents\OneDrive\Dio\dio_heroes\bin\Debug\net6.0\dio_heroes.deps.json
+E:\Documents\OneDrive\Dio\dio_heroes\bin\Debug\net6.0\dio_heroes.runtimeconfig.json
+E:\Documents\OneDrive\Dio\dio_heroes\bin\Debug\net6.0\dio_heroes.dll
+E:\Documents\OneDrive\Dio\dio_heroes\bin\Debug\net6.0\dio_heroes.pdb
+E:\Documents\OneDrive\Dio\dio_heroes\obj\Debug\net6.0\dio_heroes.csproj.AssemblyReference.cache
+E:\Documents\OneDrive\Dio\dio_heroes\obj\Debug\net6.0\dio_heroes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\OneDrive\Dio\dio_heroes\obj\Debug\net6.0\dio_heroes.AssemblyInfoInputs.cache
+E:\Documents\OneDrive\Dio\dio_heroes\obj\Debug\net6.0\dio_heroes.AssemblyInfo.cs
+E:\Documents\OneDrive\Dio\dio_heroes\obj\Debug\net6.0\dio_heroes.csproj.CoreCompileInputs.cache
+E:\Documents\OneDrive\Dio\dio_heroes\obj\Debug\net6.0\dio_heroes.dll
+E:\Documents\OneDrive\Dio\dio_heroes\obj\Debug\net6.0\refint\dio_heroes.dll
+E:\Documents\OneDrive\Dio\dio_heroes\obj\Debug\net6.0\dio_heroes.pdb
+E:\Documents\OneDrive\Dio\dio_heroes\obj\Debug\net6.0\dio_heroes.genruntimeconfig.cache
+E:\Documents\OneDrive\Dio\dio_heroes\obj\Debug\net6.0\ref\dio_heroes.dll
